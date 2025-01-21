@@ -99,7 +99,7 @@ misskeyApiGet('federation/instances', {
 		left: 0;
 		width: 100vw;
 		height: 100vh;
-		background: var(--MI_THEME-accent);
+		background: #c5d3d2;
 		clip-path: polygon(0% 0%, 45% 0%, 20% 100%, 0% 100%);
 	}
 	> .shape2 {
@@ -108,9 +108,9 @@ misskeyApiGet('federation/instances', {
 		left: 0;
 		width: 100vw;
 		height: 100vh;
-		background: var(--MI_THEME-accent);
+		background: #a2afae;
 		clip-path: polygon(0% 0%, 25% 0%, 35% 100%, 0% 100%);
-		opacity: 0.5;
+		opacity: 0.7;
 	}
 
 	> .logo-wrapper {
